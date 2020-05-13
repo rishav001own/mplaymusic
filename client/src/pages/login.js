@@ -86,7 +86,7 @@ function Home({ history }) {
         <Title>Search, Choose, Listen.</Title>
         <LoginButton href={LOGIN_URI}>LOGIN</LoginButton>
         <GithubCorner
-          href="https://github.com/rishav001own/mplaymusic"
+          href="https://github.com/rishav001own/mplaymusic.git"
           target="_blank"
           rel="noopener noreferrer"
           bannerColor="#000000"
