@@ -1,2 +1,2 @@
-# mplaymusic
- music website using spotify api
+# mplay-
+music application
