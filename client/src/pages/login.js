@@ -76,7 +76,7 @@ function Home({ history }) {
 
   const LOGIN_URI =
     process.env.NODE_ENV !== 'production'
-      ? 'https://mplaymusic.herokuapp.com/'
+      ? 'https://mplaymusic.herokuapp.com/login'
       : ''
 
   return (
