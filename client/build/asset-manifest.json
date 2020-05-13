@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f415067.chunk.css",
+    "main.js": "/static/js/main.4e65b250.chunk.js",
+    "main.js.map": "/static/js/main.4e65b250.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.98a2b520.js",
+    "runtime-main.js.map": "/static/js/runtime-main.98a2b520.js.map",
+    "static/css/2.d34346ea.chunk.css": "/static/css/2.d34346ea.chunk.css",
+    "static/js/2.4473d917.chunk.js": "/static/js/2.4473d917.chunk.js",
+    "static/js/2.4473d917.chunk.js.map": "/static/js/2.4473d917.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.df583b3dcaea863f41905c3298ffb387.js": "/precache-manifest.df583b3dcaea863f41905c3298ffb387.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.3f415067.chunk.css.map": "/static/css/main.3f415067.chunk.css.map",
+    "static/js/2.4473d917.chunk.js.LICENSE.txt": "/static/js/2.4473d917.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Comfortaa-Regular.d350ce24.ttf",
+    "static/media/trackIcon.png": "/static/media/trackIcon.fb2192a6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98a2b520.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.4473d917.chunk.js",
+    "static/css/main.3f415067.chunk.css",
+    "static/js/main.4e65b250.chunk.js"
+  ]
+}
