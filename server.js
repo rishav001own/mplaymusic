@@ -9,13 +9,13 @@ const cookieParser = require('cookie-parser')
 
 const CLIENT_URL =
   process.env.NODE_ENV !== 'production'
-    ? 'https://mplaymusic.netlify.app/'
-    : 'https://localhost:3000'
+    ? 'https://localhost:3000'
+    : ''
 
 const REDIRECT_URI =
   process.env.NODE_ENV !== 'production'
-    ? 'https://mplaymusic.herokuapp.com/callback'
-    : 'https://localhost:8888'
+    ? 'https://localhost:8888/callback'
+    : ''
 
 const CLIENT_ID =
   process.env.NODE_ENV === 'production'
