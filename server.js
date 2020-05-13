@@ -10,12 +10,12 @@ const cookieParser = require('cookie-parser')
 const CLIENT_URL =
   process.env.NODE_ENV !== 'production'
     ? 'https://localhost:3000'
-    : ''
+    : 'https://mplaymusic.herokuapp.com/'
 
 const REDIRECT_URI =
   process.env.NODE_ENV !== 'production'
     ? 'https://localhost:8888/callback'
-    : ''
+    : 'https://mplaymusic.herokuapp.com/callback'
 
 const CLIENT_ID =
   process.env.NODE_ENV === 'production'
